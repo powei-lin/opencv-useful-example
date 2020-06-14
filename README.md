@@ -1,5 +1,8 @@
 # opencv-useful-example
+
 This repository provides some useful OpenCV examples.
+
+The examples here are tested based on opencv 4.3
 
 這個程式庫提供了一些很實用裡的範例code，主要是幫我自己紀錄。
 
