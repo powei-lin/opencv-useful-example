@@ -11,7 +11,14 @@ cd build
 cmake ..
 ./main
 ```
-
+# examples
 * load images
 
     * 如何快速讀取資料夾底下的所有圖片，使用內建的parallel for
+
+# todo
+* How to use ceres-solver to solve some cv problems
+* How to use Eigen
+
+# 贊助我
+https://paypal.me/pwlin
