@@ -20,5 +20,5 @@ cmake ..
 * How to use ceres-solver to solve some cv problems
 * How to use Eigen
 
-# 贊助我
+# sponsor me
 https://paypal.me/pwlin
