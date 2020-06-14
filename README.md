@@ -14,6 +14,7 @@ cmake ..
 # examples
 * load images
 
+    * fast loading images with built-in parallel for
     * 如何快速讀取資料夾底下的所有圖片，使用內建的parallel for
 
 # todo
